@@ -46,6 +46,5 @@ Bu uygulamanın geliştirilme sürecini, karşılaşılan zorlukları ve Android
 
 ## 🤝 Katkıda Bulunun
 
-Farklı titreşim ritimleri veya yeni UI temaları eklemek isterseniz PR (Pull Request) göndermekten çekinmeyin!
 
-> **Inovi Tech** - "Afyon'dan Teknoloji Üretiyoruz!"
+> **Inovi Tech** - "Teknoloji Üretiyoruz!"
